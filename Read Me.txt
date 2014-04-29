@@ -1,0 +1,4 @@
+This is the last version of the crystal space project I had worked on before I decided to try to integrate it
+into the crystal space architecture. You will notice that the planes are not attached in the terrain generator
+I just never got around to fixing that bug (stitching the planes together by interpolating the shared points on
+the edges of the planes)
